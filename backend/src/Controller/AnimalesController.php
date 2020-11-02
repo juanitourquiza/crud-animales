@@ -3,7 +3,7 @@
 namespace App\Controller;
 
 use App\Entity\Animales;
-use App\Form\animalesType;
+use App\Form\AnimalesType;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
