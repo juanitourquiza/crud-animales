@@ -8,7 +8,7 @@ composer install
 symfony server:start
 
 Apis estan en el puerto
-127.0.0.1:8000/apis/personal/
+127.0.0.1:8000/apis/animales/
 
 Datos de prueba en la carpeta data
 ```
